@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
+}
+#money {
+    color: green;
+    font-size: 30px;
+}
+h1 {
+    color: darkred;
+}
+h2 {
+    color: salmon;
+}
+h1, h2, ul, li, p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p, li, h4, h3, h6 {
+    color: white;
+}
+a {
+    font-size: 20px;
+    color: blue;
+}
